@@ -16,4 +16,29 @@ In this paper, a single Transformer layer network based on traditional encoder-d
 
 ## Usage
 
-1. First, you can download the dataset from [ISIC](https://challenge.isic-archive.com/data/) challenge dataset.
+### 1. Data Preparation
+#### ISIC, MoNuSeg and GlaS Datasets
+
+First, you can download the dataset from following links:
+
+* ISIC 2016 Dataset - [Link (Original)](https://challenge.isic-archive.com/data/)
+* MoNuSeg Dataset - [Link (Original)](https://monuseg.grand-challenge.org/Data/)
+* GLAS Dataset - [Link (Original)](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest)
+
+
+### 2. Training
+
+
+### 3. Testing and Evaluation
+
+
+
+## Reference
+
+* [UCTransNet](https://github.com/McGregorWwww/UCTransNet) 
+* [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) 
+* [TransUNet](https://github.com/Beckschen/TransUNet) 
+* [MedT](https://github.com/jeya-maria-jose/Medical-Transformer)
+
+
+
